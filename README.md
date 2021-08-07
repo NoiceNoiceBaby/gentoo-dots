@@ -1,6 +1,10 @@
 ## gentoo-dots
-Dots for my gentoo install
----
+## preview
+<p align="center">
+<img src=desktop.png>
+</p>
+
+---   
 ## dependancies 
 * `x11-base/xorg-server`
 * `x11-apps/xinit`
