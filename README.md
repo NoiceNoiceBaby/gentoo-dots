@@ -16,6 +16,8 @@
 * `app-shells/gentoo-zsh-completions`
 * `media-sound/pulseaudio`
 * `media-sound/pavucontrol`
+* `media-fonts/fontawesome`
+* `oh-my-zsh`
 
 ---
 ## install
