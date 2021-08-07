@@ -5,7 +5,7 @@
 </p>
 
 ---   
-## dependancies 
+## dependencies 
 * `x11-base/xorg-server`
 * `x11-apps/xinit`
 * `x11-apps/xauth`
